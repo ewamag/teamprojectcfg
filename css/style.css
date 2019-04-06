@@ -558,7 +558,7 @@ img {
  ABOUT US COUNTER SECTION
 ====================*/
 #mu-abtus-counter {
-  background-image: url("../img/counter-bg.jpg");
+  background-image: url("../img/Blue.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   display: inline;
@@ -597,6 +597,10 @@ img {
 }
 #mu-abtus-counter .mu-abtus-counter-area .no-border {
   border: none;
+}
+
+#mu-abtus-counter .mu-abtus-counter-area {
+  {background-color: blue;
 }
 
 /*==================
