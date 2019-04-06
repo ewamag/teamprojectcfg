@@ -590,7 +590,7 @@ img {
   margin-bottom: 5px;
   margin-top: 20px;
 }
-#mu-abtus-counter .mu-abtus-counter-area .mu-abtus-counter-single p {
+#mu-abtus-counter .mu-abtus-counter-area .mu-abtus-counter-single  {
   color: #fff;
   font-size: 18px;
   text-transform: uppercase;
