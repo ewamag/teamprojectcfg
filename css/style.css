@@ -558,7 +558,7 @@ img {
  ABOUT US COUNTER SECTION
 ====================*/
 #mu-abtus-counter {
-  background-image: url("../img/Blue.jpg");
+  background-image: url("img/Blue.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   display: inline;
@@ -1813,7 +1813,7 @@ img {
 ====================*/
 #mu-contact {
   display: inline;
-  float: left;
+  float: none;
   padding: 100px 0;
   width: 100%;
 }
